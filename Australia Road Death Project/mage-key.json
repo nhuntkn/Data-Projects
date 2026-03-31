@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-de05ea45-0c4e-455c-806",
+  "private_key_id": "f32947f2228ef438b4f7638275bc15e6702aa460",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMzP6ryrIKuKyH\nUQIyiv1OxWB9f+T6WcjKMTuGDtJvKM4xaacgHVOj2QN6nHQ+IPMzakeKlMfHB30u\nCl8UEoZwsdaoOhvNc0CU5WPZblSKEcwU9q4CGPdksrLUi3Iz/UQmGshAyRJQioLw\nNJOpNEtgQ84k+0XuGJB+6T7bijAPHEQZkH+gSSOpW8lgxvd4xEL4TPCj3AdNbfwO\nl8QSC1K6712GWqQEppYEns3/Qe475jVOVkua6wloRCijAldX1avx0gcojbNAYw6I\nFT8vVaAVvIMQzlheWhjdJPXH38eTweaDLrEHNjEdH+vsk4ywhhrxt8eTzDyxx0I5\nRYpS4iUBAgMBAAECggEAAX8LqwgFBRuobIhqq4F9FGnQILiaDNtyMmp5yqrh7hSa\nbY1d3ofiUh2SNz+MgJ3zYuw3S7eWrlFDYI5MN6iDPZBqDuJ2TKnndlMG98ok4Vmc\nD+jluG+T4qMk1/VRGzjB6kSasxD5AphBeMVskQFYHeLe7yGcFx9MMnYsKrTTsS+O\nhGixBMfPUrHRMXCzdsitioeqYfqkssY/3zh1u0d1g+lgH6PumVb5GfFGvJOZLutm\nyI81Z78qm2vLBuHe5misVrkmSE88H5mcUOInsFC8Rs5FOsBq8Do0fznVpbac0vta\nJbDocWBfMwI5nzDuNup2ujDFr4kBHkdtCgn2jkKasQKBgQDziMzP0UKGyTBhfTLw\nIDT8qHZI91QTKcPaZbaRCivOoDjDTZmbtb2wcE7Gs2fPqM0oaNwJegwUJ00AJRoQ\nN0i/BD873wJ1IWHLgmnCxg4pur1R1OosqEVHlZV7qhtqqdXeCqMIrOtDN6jDZfEI\n86YAddkUBocZC+7uFqvAht5nMQKBgQDXSKQuRRN0vZv6P0LyIoRXRr00i5o0RnHy\noD990lbJlBrujiK2j6Gm5xUna8CVl8OhfB8EoicMMnudFjSVK85SZqVWQL8KNs4/\nP9RIIYrHonLThhAch5b8joafapXLXreIzHT/LreOwg0xdZkbuqQ2Vk+DXmLUs44s\n7G6hi4DG0QKBgQCeTQYU8Ak2ZAC23hMGU2kd8sMwmtRjwHo2tHb/wITJQwyipwZ6\nWKB82APc1TFdonP5GHAvGM5RK1q6BWPztnvq7m/MEyId0R0olBT7LpJ2PZRiZOvz\nK04dQfZw9BnuM4d5VaC0OvKSNtPUb6dGElqNYg1BHx0iAsfEq6fo9cILgQKBgQDN\nIUw/QlZtkBXFdu3lJfqP5rl2DecbFFyS4RpeW0OSw2p+EDUHWwiereU8MLHKWFdx\n0YEEuzUVrCyY24Wy9ZCcd23nJ75gjyQqpDkzmbJQ0nszDbTgWloFwBCKadbddxzO\nXnLEi9EfV8uWawU+pLK/i7Ir7I2jOouoRoiLqQ9FYQKBgDnIpbyuOimh/iWTwhsw\nBGJi69aq+kOSGujI6WVxSZY04s1Vaa86UxgntjoR/LaBtB+eWOXdow0G+6Si+aJj\nfFRY/OW1nqryCSoPOPu5PA2gjtN59d3CpKMvy/AX9p1SWJB/cJ9sf8Ekq4KMxYG/\n5BMa2m7jaCvWjKd+AhV4qyTM\n-----END PRIVATE KEY-----\n",
+  "client_email": "mage-bigquery-access@project-de05ea45-0c4e-455c-806.iam.gserviceaccount.com",
+  "client_id": "113975704541497051226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mage-bigquery-access%40project-de05ea45-0c4e-455c-806.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
