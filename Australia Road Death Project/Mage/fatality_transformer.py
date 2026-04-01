@@ -125,7 +125,7 @@ def transform(df, *args, **kwargs):
     dim_scenario = df[['Crash Type', 'Speed Limit', 'Bus Involvement', 'Heavy Rigid Truck Involvement', 'Articulated Truck Involvement']].drop_duplicates().reset_index(drop = True)
     dim_scenario.insert(0, 'Scenario ID', dim_scenario.index)
 
-    # 7. Create fact_fatalities table
+    # 8. Create fact_fatalities table
 
     fact_fatalities = df.merge(dim_date, on = ['Month', 'Year', 'Time', 'Time of Day', 'Holiday Flag', 'Weekend Flag'], how = 'left')
     fact_fatalities = fact_fatalities.merge(dim_location, on = ['State', 'National Road Type', 'National Remoteness Areas 2021', 'SA4 Name 2021', 'National LGA Name 2021'], how = 'left')
